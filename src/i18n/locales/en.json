@@ -1,0 +1,91 @@
+{
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "update": "Update",
+    "search": "Search",
+    "filter": "Filter",
+    "export": "Export",
+    "import": "Import",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "warning": "Warning",
+    "info": "Info"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "users": "Users",
+    "analytics": "Analytics",
+    "settings": "Settings"
+  },
+  "auth": {
+    "login": "Sign In",
+    "logout": "Sign Out",
+    "email": "Email",
+    "password": "Password",
+    "rememberMe": "Remember me",
+    "forgotPassword": "Forgot password?",
+    "signInToAccount": "Sign in to your account"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome to your admin dashboard",
+    "totalUsers": "Total Users",
+    "revenue": "Revenue",
+    "conversionRate": "Conversion Rate",
+    "activeSessions": "Active Sessions",
+    "recentActivity": "Recent Activity",
+    "quickActions": "Quick Actions"
+  },
+  "users": {
+    "title": "Users",
+    "subtitle": "Manage your users and their permissions",
+    "addUser": "Add User",
+    "editUser": "Edit User",
+    "createUser": "Create User",
+    "deleteUser": "Delete User",
+    "userDetails": "User Details",
+    "name": "Name",
+    "email": "Email",
+    "role": "Role",
+    "status": "Status",
+    "createdAt": "Created",
+    "actions": "Actions",
+    "searchUsers": "Search users...",
+    "allRoles": "All Roles",
+    "allStatus": "All Status",
+    "active": "Active",
+    "inactive": "Inactive",
+    "admin": "Admin",
+    "moderator": "Moderator",
+    "user": "User"
+  },
+  "settings": {
+    "title": "Settings",
+    "subtitle": "Manage your application settings and preferences",
+    "general": "General Settings",
+    "theme": "Theme Settings",
+    "userPreferences": "User Preferences",
+    "systemInfo": "System Information",
+    "appName": "Application Name",
+    "appDescription": "Application Description",
+    "themeMode": "Theme Mode",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode",
+    "primaryColor": "Primary Color",
+    "borderRadius": "Border Radius",
+    "emailNotifications": "Email Notifications",
+    "pushNotifications": "Push Notifications",
+    "autoSave": "Auto-save",
+    "version": "Version",
+    "lastUpdated": "Last Updated",
+    "environment": "Environment",
+    "database": "Database"
+  }
+}
+
+

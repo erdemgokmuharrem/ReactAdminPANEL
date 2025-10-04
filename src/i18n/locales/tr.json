@@ -1,0 +1,91 @@
+{
+  "common": {
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "create": "Oluştur",
+    "update": "Güncelle",
+    "search": "Ara",
+    "filter": "Filtrele",
+    "export": "Dışa Aktar",
+    "import": "İçe Aktar",
+    "loading": "Yükleniyor...",
+    "error": "Hata",
+    "success": "Başarılı",
+    "warning": "Uyarı",
+    "info": "Bilgi"
+  },
+  "navigation": {
+    "dashboard": "Panel",
+    "users": "Kullanıcılar",
+    "analytics": "Analitik",
+    "settings": "Ayarlar"
+  },
+  "auth": {
+    "login": "Giriş Yap",
+    "logout": "Çıkış Yap",
+    "email": "E-posta",
+    "password": "Şifre",
+    "rememberMe": "Beni hatırla",
+    "forgotPassword": "Şifremi unuttum?",
+    "signInToAccount": "Hesabınıza giriş yapın"
+  },
+  "dashboard": {
+    "title": "Panel",
+    "welcome": "Admin paneline hoş geldiniz",
+    "totalUsers": "Toplam Kullanıcı",
+    "revenue": "Gelir",
+    "conversionRate": "Dönüşüm Oranı",
+    "activeSessions": "Aktif Oturumlar",
+    "recentActivity": "Son Aktiviteler",
+    "quickActions": "Hızlı İşlemler"
+  },
+  "users": {
+    "title": "Kullanıcılar",
+    "subtitle": "Kullanıcılarınızı ve izinlerini yönetin",
+    "addUser": "Kullanıcı Ekle",
+    "editUser": "Kullanıcıyı Düzenle",
+    "createUser": "Kullanıcı Oluştur",
+    "deleteUser": "Kullanıcıyı Sil",
+    "userDetails": "Kullanıcı Detayları",
+    "name": "Ad",
+    "email": "E-posta",
+    "role": "Rol",
+    "status": "Durum",
+    "createdAt": "Oluşturulma",
+    "actions": "İşlemler",
+    "searchUsers": "Kullanıcı ara...",
+    "allRoles": "Tüm Roller",
+    "allStatus": "Tüm Durumlar",
+    "active": "Aktif",
+    "inactive": "Pasif",
+    "admin": "Yönetici",
+    "moderator": "Moderatör",
+    "user": "Kullanıcı"
+  },
+  "settings": {
+    "title": "Ayarlar",
+    "subtitle": "Uygulama ayarlarınızı ve tercihlerinizi yönetin",
+    "general": "Genel Ayarlar",
+    "theme": "Tema Ayarları",
+    "userPreferences": "Kullanıcı Tercihleri",
+    "systemInfo": "Sistem Bilgileri",
+    "appName": "Uygulama Adı",
+    "appDescription": "Uygulama Açıklaması",
+    "themeMode": "Tema Modu",
+    "darkMode": "Karanlık Mod",
+    "lightMode": "Aydınlık Mod",
+    "primaryColor": "Ana Renk",
+    "borderRadius": "Köşe Yuvarlaklığı",
+    "emailNotifications": "E-posta Bildirimleri",
+    "pushNotifications": "Anlık Bildirimler",
+    "autoSave": "Otomatik kaydet",
+    "version": "Sürüm",
+    "lastUpdated": "Son Güncelleme",
+    "environment": "Ortam",
+    "database": "Veritabanı"
+  }
+}
+
+
