@@ -1021,19 +1021,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Support
+## 🆘 Support
 
-- **Documentation**: [https://react-admin-pro-docs.vercel.app](https://react-admin-pro-docs.vercel.app)
-- **Issues**: [GitHub Issues](https://github.com/your-username/react-admin-pro/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/react-admin-pro/discussions)
-- **Email**: support@reactadminpro.com
+- 📧 Email: erdemmgokmuharrem@gmail.com
+- 📖 Documentation: `/api-docs`
+- 🐛 Issues: GitHub Issues
 
 ---
 
-<div align="center">
-
-**Made with ❤️ by the React Admin Pro Team**
-
-[⭐ Star us on GitHub](https://github.com/your-username/react-admin-pro) • [🐛 Report Bug](https://github.com/your-username/react-admin-pro/issues) • [💡 Request Feature](https://github.com/your-username/react-admin-pro/issues)
-
-</div>
+**Made with erdemgokmuharrem
